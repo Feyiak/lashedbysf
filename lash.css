@@ -303,6 +303,9 @@ footer{
   body{
     text-align: center !important;
   }
+nav{
+position:fixed
+}
   header {
     display: none;
   }
